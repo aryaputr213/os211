@@ -20,4 +20,10 @@ ZCZC W01 50 L09 AsDos: asking, etc.
 ZCZC W01 50 L23 Discord: discussion, etc.
 ZCZC W01 30 L01 SCELE related (Pop Quiz)
 ZCZC W01 50 L26 Disney+ : Wanda Vision
-
+ZCZC W02 50 L00 General Log
+ZCZC W02 100 L02 ZOOM
+ZCZC W02 50 L18 Assignment #8 : Creating w02.md for weekly TOP 10 list
+ZCZC W02 30 L01 SCELE related (Pop Quiz)
+ZCZC W02 50 L23 Discord: discussion, etc.
+ZCZC W02 50 L22 YouTube: study, etc.
+ZCZC W02 30 L04 GitHub Pages: setting, etc.
