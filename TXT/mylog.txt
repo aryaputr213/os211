@@ -24,3 +24,13 @@ ZCZC W02 30 L01 SCELE related (Pop Quiz)
 ZCZC W02 50 L23 Discord: discussion, etc.
 ZCZC W02 50 L22 YouTube: study, etc.
 ZCZC W02 30 L04 GitHub Pages: setting, etc.
+ZCZC W03 50 L05 GSGS related
+ZCZC W03 30 L03 GitHub related
+ZCZC W03 100 L02 ZOOM related
+ZCZC W03 50 L08 Trying NFS
+ZCZC W03 20 L25 C-language: study, etc.
+ZCZC W03 50 L23 Discord: discussion, etc.
+ZCZC W03 100 L06 Reading References/Books/Documents
+ZCZC W03 20 L07 Demo related
+ZCZC W03 50 L14 Assignment #4 : Creating w03.md for weekly TOP 10 list
+ZCZC W03 30 L26 Movie: relax, etc
