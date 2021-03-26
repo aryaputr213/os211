@@ -34,3 +34,14 @@ ZCZC W03 100 L06 Reading References/Books/Documents
 ZCZC W03 20 L07 Demo related
 ZCZC W03 50 L14 Assignment #4 : Creating w03.md for weekly TOP 10 list
 ZCZC W03 30 L26 Movie: relax, etc
+ZCZC W04 50 L00 General Log
+ZCZC W04 100 L02 ZOOM
+ZCZC W04 80 L23 Discord: discussion, etc.
+ZCZC W04 100 L06 Reading References/Books/Documents
+ZCZC W04 50 L22 YouTube: study, etc.
+ZCZC W04 50 L05 GSGS related
+ZCZC W04 20 L07 Demo related
+ZCZC W04 20 L25 C-language: study, etc.
+ZCZC W04 10 L03 GitHub related
+ZCZC W04 60 L01 SCELE related (Pop Quiz)
+ZCZC W01 50 L26 Disney+ : The Falcon and Winter Soldier
