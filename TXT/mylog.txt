@@ -44,4 +44,17 @@ ZCZC W04 20 L07 Demo related
 ZCZC W04 20 L25 C-language: study, etc.
 ZCZC W04 10 L03 GitHub related
 ZCZC W04 60 L01 SCELE related (Pop Quiz)
-ZCZC W01 50 L26 Disney+ : The Falcon and Winter Soldier
+ZCZC W04 50 L26 Disney+ : The Falcon and Winter Soldier
+ZCZC W05 50 L00 General Log
+ZCZC W05 100 L02 ZOOM
+ZCZC W05 80 L23 Discord: discussion, etc.
+ZCZC W05 100 L06 Reading References/Books/Documents
+ZCZC W05 50 L22 YouTube: study, etc.
+ZCZC W05 50 L05 GSGS related
+ZCZC W05 20 L07 Demo related
+ZCZC W05 20 L25 C-language: study, etc.
+ZCZC W05 10 L03 GitHub related
+ZCZC W05 60 L01 SCELE related (Pop Quiz)
+ZCZC W05 50 L09 AsDos: asking, etc.
+ZCZC W02 150 L18 Assignment Weekly
+ZCZC W05 50 L26 Disney+ : The Falcon and Winter Soldier
