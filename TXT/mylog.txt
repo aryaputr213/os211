@@ -56,5 +56,5 @@ ZCZC W05 20 L25 C-language: study, etc.
 ZCZC W05 10 L03 GitHub related
 ZCZC W05 60 L01 SCELE related (Pop Quiz)
 ZCZC W05 50 L09 AsDos: asking, etc.
-ZCZC W02 150 L18 Assignment Weekly
+ZCZC W05 150 L18 Assignment Weekly
 ZCZC W05 50 L26 Disney+ : The Falcon and Winter Soldier
