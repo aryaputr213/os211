@@ -97,3 +97,16 @@ ZCZC W08 60 L01 SCELE related (Pop Quiz)
 ZCZC W08 50 L09 AsDos: asking, etc.
 ZCZC W08 150 L18 Assignment Weekly
 ZCZC W08 50 L26 Disney+
+ZCZC W09 50 L00 General Log
+ZCZC W09 100 L02 ZOOM
+ZCZC W09 100 L23 Discord: discussion, etc.
+ZCZC W09 100 L06 Reading References/Books/Documents
+ZCZC W09 50 L22 YouTube: study, etc.
+ZCZC W09 50 L05 GSGS related
+ZCZC W09 20 L07 Demo related
+ZCZC W09 20 L25 C-language: study, etc.
+ZCZC W09 10 L03 GitHub related
+ZCZC W09 60 L01 SCELE related (Pop Quiz)
+ZCZC W09 50 L09 AsDos: asking, etc.
+ZCZC W09 150 L18 Assignment Weekly
+ZCZC W09 50 L26 Disney+
